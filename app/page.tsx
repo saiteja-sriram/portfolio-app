@@ -215,14 +215,14 @@ export default function Home() {
               Email Me
             </a>
             <a
-              href="https://www.linkedin.com"
+              href="www.linkedin.com/in/saiteja-sriram-86478a218"
               target="_blank"
               className="rounded-xl border border-white/20 px-6 py-3 font-medium hover:border-cyan-400 hover:text-cyan-400"
             >
               LinkedIn
             </a>
             <a
-              href="https://github.com"
+              href="https://github.com/saiteja-sriram"
               target="_blank"
               className="rounded-xl border border-white/20 px-6 py-3 font-medium hover:border-cyan-400 hover:text-cyan-400"
             >
